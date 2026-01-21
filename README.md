@@ -9,3 +9,7 @@
 - автоматического деплоя в Kubernetes.
 
 Для проекта настроен GitHub Actions, который при изменении кода автоматически собирает Docker-образ, публикует его в registry и разворачивает новую версию приложения в кластере.
+
+![](https://github.com/Furious992/diploma-app/blob/main/screen/dockerhub.png)
+![](https://github.com/Furious992/diploma-app/blob/main/screen/reposecret.png)
+![](https://github.com/Furious992/diploma-app/blob/main/screen/failokactions.png)
