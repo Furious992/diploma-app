@@ -13,3 +13,4 @@
 ![](https://github.com/Furious992/diploma-app/blob/main/screen/dockerhub.png)
 ![](https://github.com/Furious992/diploma-app/blob/main/screen/reposecret.png)
 ![](https://github.com/Furious992/diploma-app/blob/main/screen/failokactions.png)
+![](https://github.com/Furious992/diploma-k8s/blob/main/screen/checkbuild.png)
